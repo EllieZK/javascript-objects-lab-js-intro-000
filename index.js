@@ -1,4 +1,4 @@
-var recipes = {prop: 1};
+var recipes = {prop: 1, };
 
 function updateObjectWithKeyAndValue(object, key, value){
   object.assign({}, recipes, {['prop2']: '2'} );
