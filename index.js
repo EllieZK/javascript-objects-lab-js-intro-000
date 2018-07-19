@@ -18,4 +18,3 @@ function destructivelyDeleteFromObjectByKey(object, key){
   {delete recipes.prop; 
   return recipes;};
 }
-
